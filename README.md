@@ -5,7 +5,7 @@ La empresa de seguros TK-U, ubicada en la ciudad Jedha, realiza cientos de cotiz
 
 Esto está causando un gran atraso para la entrega de las cotizaciones y posiblemente están perdiendo una gran cantidad de posibles clientes.
 
-Dado que usted ya tiene los conocimientos necesarios para poder realizar un cotizador automático para la empresa de seguros TK-U, se requiere que usted complete los siguientes requisitos en el programa que se encuentra en el siguiente link: <link>
+Dado que usted ya tiene los conocimientos necesarios para poder realizar un cotizador automático para la empresa de seguros TK-U, se requiere que usted complete los siguientes requisitos en el programa que se encuentra en el siguiente link: https://github.com/isabelgg22/proyecto/blob/master/proyecto.js
 
 ## Requisitos ##
 
