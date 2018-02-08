@@ -33,6 +33,9 @@ Al final debe mostrar en pantalla lo siguiente:
 *	Desglose de los cargos aplicados
 *	Total a pagar
 
+## Formato de entrega ##
+Al finalizar debe entregar en el GES el link de su proyecto en github.
+
 ## Puntos extra ##
 Se aceptarán los puntos extra únicamente si se realizan todas las validaciones solicitadas en los requerimientos del proyecto.
 
