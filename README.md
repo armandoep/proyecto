@@ -34,7 +34,12 @@ Al final debe mostrar en pantalla lo siguiente:
 *	Total a pagar
 
 ## Formato de entrega ##
-Al finalizar debe entregar en el GES el link de su proyecto en github.
+1. Al finalizar debe entregar en el GES el link de su proyecto en github.
+2. Deben agregar un archivo README.md donde indiquen lo siguiente:
+    *	Nombre completo y carné de las peronas que lo trabajaron.
+    *	Detalle todas las características de su proyecto.
+    *	Si trabajaron puntos extra, indicarlos en este archivo.
+    * Debe darle formato a su archivo README.md.
 
 ## Puntos extra ##
 Se aceptarán los puntos extra únicamente si se realizan todas las validaciones solicitadas en los requerimientos del proyecto.
