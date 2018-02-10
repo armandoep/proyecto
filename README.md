@@ -42,7 +42,7 @@ Se aceptarán los puntos extra únicamente si se realizan todas las validaciones
 * En lugar de prompts para solicitar los datos del cliente, utilizar formularios HTML y para ejecutar el cálculo, utilizar un botón que ejecute los cálculos necesarios para generar la cotización y/o el monto a pagar mensualmente.
 * Puede mejorar la visualización con css.
 * Permitir que se pueda generar un PDF por cotización. El texto a enviar al PDF debe tener formato.
-* Permitir que se pueda imprimir la cotización en una hoja tamaño carta. El texto a imprimir debe tener.
+* Permitir que se pueda imprimir la cotización en una hoja tamaño carta. El texto a imprimir debe tener formato.
 
 ## Nota importante ##
 Recuerde que cada persona piensa distinto y que no existen dos respuestas iguales. Para este proyecto se tomará en cuenta la política de copia establecida desde el inicio del curso. No copie.
